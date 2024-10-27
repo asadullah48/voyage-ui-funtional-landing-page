@@ -1,9 +1,9 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/";
 import HeroSection from "../components/HeroSection";
 import Promise from "../components/Promise";
-import Places from "../components/places";
+import Places from "../components/Places";
 import Luxury from "../components/Luxury";
 import Plan from "../components/Plan";
 import Client from "../components/Client";

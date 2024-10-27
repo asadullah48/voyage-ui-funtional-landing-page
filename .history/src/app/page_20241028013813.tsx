@@ -6,7 +6,7 @@ import Promise from "../components/Promise";
 import Places from "../components/places";
 import Luxury from "../components/Luxury";
 import Plan from "../components/Plan";
-import Client from "../components/Client";
+import Client from "../components/";
 import Footer from "../components/Footer";
 
 export default function Home() {

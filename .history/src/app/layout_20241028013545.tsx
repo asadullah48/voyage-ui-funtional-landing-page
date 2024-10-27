@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import GoToTop from "../components/GoToTop";
+import GoToTop from "../components/";
 import { FirebaseProvider } from "../context/Firebase";
 
 export const metadata: Metadata = {

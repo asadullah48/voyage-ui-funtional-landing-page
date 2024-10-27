@@ -5,7 +5,7 @@ import HeroSection from "../components/HeroSection";
 import Promise from "../components/Promise";
 import Places from "../components/places";
 import Luxury from "../components/Luxury";
-import Plan from "../components/Plan";
+import Plan from "../components";
 import Client from "../components/Client";
 import Footer from "../components/Footer";
 

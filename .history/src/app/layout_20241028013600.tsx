@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import GoToTop from "../components/GoToTop";
-import { FirebaseProvider } from "../context/Firebase";
+import { FirebaseProvider } from "../context/";
 
 export const metadata: Metadata = {
   title: "Create Next App",

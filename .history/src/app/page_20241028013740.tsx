@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
 import Promise from "../components/Promise";
 import Places from "../components/places";
-import Luxury from "../components/Luxury";
+import Luxury from "../components/";
 import Plan from "../components/Plan";
 import Client from "../components/Client";
 import Footer from "../components/Footer";

@@ -7,7 +7,7 @@ import Places from "../components/places";
 import Luxury from "../components/Luxury";
 import Plan from "../components/Plan";
 import Client from "../components/Client";
-import Footer from "../components/Footer";
+import Footer from "../components/";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
